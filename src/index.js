@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-
+console.log('cccccccc')
 const program = require('commander')
 
 const { initStorage, getCurrentCollectionStorage } = require('./storage')
